@@ -47,14 +47,6 @@ Stakeholder Management | Problem Solving | Communication | Documentation
 - **Data Analyst Certification** — Pantech Solution  
 - **Advanced Excel** — IDTM  
 - **Diploma in Software Application** — IDTM  
-
----
-
-## 📈 GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
 ---
 
 ## 🤝 Let’s Connect
