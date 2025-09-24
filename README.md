@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Singh 👋
 
-🚀 **Aspiring Data Analyst | Data Engineer / Data Scientist | Business Analyst | SQL & ETL Developer**  
+🚀 **Data Analyst | Data Engineer / Data Scientist | Business Analyst | SQL & ETL Developer**  
 📍 Thane, Maharashtra, India | 📧 mickeysingh883@gmail.com | 📞 +91 97664 36159  
 🔗 [LinkedIn](https://linkedin.com/in/abhishek-singh-44a4391a0)
 ---
